@@ -48,3 +48,7 @@ E-commerce platforms for order tracking, product inquiries, and service support.
 
 Conclusion:
 In summary, this project provides a hands-on implementation of a simple rule-based chatbot using Python and NLP. It showcases how basic machine learning and language processing techniques can be combined to develop a functioning chatbot capable of understanding and responding to human input. The project can serve as a foundation for more advanced conversational agents incorporating deep learning, context handling, or web integration.
+
+#OUTPUT
+
+<img width="397" height="187" alt="Image" src="https://github.com/user-attachments/assets/33a3f458-a57c-4751-bc77-7845a13be66a" />
